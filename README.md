@@ -31,6 +31,16 @@ Detox is a modern and minimalistic theme.
 
 Clean Blog is a modern blog theme with a fill width header.
 
+### Menus
+
+#### Primary
+
+This theme supports a menu entitled `primary` with the fields `title` and `link` for use as the main page navigation.
+
+#### Social
+
+This theme supports a menu entitled `social` with the fields `icon` and `link` for use as the social navigation.
+
 ## Blended Software
 
 Blended Software is a theme specifically designed for any type of software or app project.
