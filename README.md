@@ -1,6 +1,18 @@
 # BlendedThemes
 A collection of Blended themes for v6.0.0 and up.
 
+## Edinburgh
+
+![Edinburgh screenshot](https://raw.githubusercontent.com/BlendedSiteGenerator/BlendedThemes/master/screenshots/edinburgh.png)
+
+Edinburgh is a stylish portfolio/blog theme.
+
+### Menus
+
+#### Primary
+
+This theme supports a menu entitled `primary` with the fields `title` and `link` for use as the main page navigation.
+
 ## Orbit
 
 ![Orbit screenshot](https://raw.githubusercontent.com/BlendedSiteGenerator/BlendedThemes/master/screenshots/orbit.png)
