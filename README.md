@@ -1,6 +1,30 @@
 # BlendedThemes
 A collection of Blended themes for v6.0.0 and up.
 
+## Minimalist
+
+![Minimalist screenshot](https://raw.githubusercontent.com/BlendedSiteGenerator/BlendedThemes/master/screenshots/minimalist.png)
+
+Minimalist is a stylish, modern, and minimal blog theme.
+
+### Menus
+
+#### Primary
+
+This theme supports a menu entitled `primary` with the fields `title` and `link` for use as the main page navigation.
+
+## Shade
+
+![Shade screenshot](https://raw.githubusercontent.com/BlendedSiteGenerator/BlendedThemes/master/screenshots/shade.jpg)
+
+Shade is a flat-design blog theme.
+
+### Menus
+
+#### Primary
+
+This theme supports a menu entitled `primary` with the fields `title` and `link` for use as the main page navigation.
+
 ## Edinburgh
 
 ![Edinburgh screenshot](https://raw.githubusercontent.com/BlendedSiteGenerator/BlendedThemes/master/screenshots/edinburgh.png)
